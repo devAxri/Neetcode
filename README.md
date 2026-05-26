@@ -1,3 +1,5 @@
+![Rikko](../0-Assets/rikko.png)
+
 # NeetCode Solutions
 
 This repository contains my personal solutions to NeetCode problems.
