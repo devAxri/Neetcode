@@ -1,4 +1,4 @@
-![Rikko](../0-Assets/rikko.png)
+![Rikko](0-Assets/rikko.png)
 
 # NeetCode Solutions
 
